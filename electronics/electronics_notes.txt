@@ -1,0 +1,34 @@
+### Foundation in Electronics
+
+Current: Movement of electrons. Represents the flow of charge.
+Voltage: Potential difference between two points.
+
+
+Ohm's Law
+---------
+
+V = I * R    Voltage = Current * Resistance
+I = V / R    Current = Voltage / Resistance
+R = V / I    Resistance = Voltage / Resistance
+
+Common terms
+------------
+
+Charge: measured in coulombs (C).
+Current: measured in amps (A).
+Energy: measured in Joules (J).
+Power: rate of doing work.
+Voltage: measured in volts (V).
+
+Batteries, Power and Energy
+---------------------------
+
+Energy:
+Energy = Power * Time
+E = P * time
+E = V * I * time
+
+Power:
+P = V * I    Power = Voltage * Current
+P = V^2 / R  Power = Voltage^2 / Resistance
+P = I^2 * R  Power = Current^2 * Resistance
