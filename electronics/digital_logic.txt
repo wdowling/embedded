@@ -1,0 +1,18 @@
+
+## Notes on Digital Logic
+
+CMOS - Complimentary Metal Oxide Semiconductor
+
+On the TMC4C123 microcontroller powered with a 3.3V power supply. A voltage
+between 2.145V and 5V is considered high, a voltage between 0V and 1.155V is
+considered low. The microcontroller inputs and outputs also have a min and
+max value for voltages.
+
+Vil : Voltage Input Low
+Vih : Voltage Input High
+Vol : Voltage Output Low
+Voh : Voltage Output High
+
+P-Channel : signal sent from source to drain when voltage is positive.
+N-Channel : signal sent from drain to source when voltage is positive.
+
